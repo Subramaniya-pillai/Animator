@@ -34,6 +34,9 @@ Select the crouch and in the inspector choose Animation-> Root transform rotatio
 ### Step 15: 
 In blend tree, in blend type choose (2D Freedom Directional), parameter (InputX, InputY) , one crouch (0,-1,1) and walking (1,0,1). Bring the camera under the player
 
+> developed by : Subramaniya Pillai B
+
+> reg no : 212221230109
 ## Program:
 ```c#
 using System.Collections;
